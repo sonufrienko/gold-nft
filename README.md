@@ -1,2 +1,2 @@
-# gold-nft
+# NFTOR
 DApp with Flutter and AWS
